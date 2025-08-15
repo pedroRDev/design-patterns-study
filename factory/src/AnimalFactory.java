@@ -1,8 +1,8 @@
-import Enums.AnimalSpecies;
-import Classes.Animal;
-import Classes.Cat;
-import Classes.Cow;
-import Classes.Dog;
+import enums.AnimalSpecies;
+import classes.Animal;
+import classes.Cat;
+import classes.Cow;
+import classes.Dog;
 
 public class AnimalFactory {
 

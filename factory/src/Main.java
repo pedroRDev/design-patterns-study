@@ -1,4 +1,4 @@
-import Enums.AnimalSpecies;
+import enums.AnimalSpecies;
 
 public class Main {
     public static void main(String[] args) {

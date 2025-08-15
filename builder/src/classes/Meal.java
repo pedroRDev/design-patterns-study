@@ -1,4 +1,4 @@
-package Classes;
+package classes;
 
 public class Meal {
     private String mainDish;

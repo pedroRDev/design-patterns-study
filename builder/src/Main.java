@@ -1,4 +1,4 @@
-import Classes.Meal;
+import classes.Meal;
 
 import java.util.Scanner;
 
